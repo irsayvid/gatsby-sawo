@@ -23,7 +23,7 @@ const IndexPage = () => {
       // can be one of 'email' or 'phone_number_sms'
       identifierType: 'email',
       // Add the API key copied from 5th step
-      apiKey: '2d8653ae-5da8-4c5c-9953-17dcc1f3d114',
+      apiKey: '2d8653ae-5da9-4c5c-9953-17dcc1f3d115',
       // Add a callback here to handle the payload sent by sdk
       onSuccess: (payload) => {
         // you can use this payload for your purpose
